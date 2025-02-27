@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Full Stack Developer specializing in MERN Stack development with strong backend experience in Python. Currently expanding my skillset by diving into:
+I'm a Software Developer specializing in MERN Stack development & working knowledge in Python backend frameworks. Skilled in building Power BI Visualization & Data Analysis. Currently expanding my skillset by diving into:
 - AWS Cloud Services 🚀
 - CI/CD Pipelines 🔄
 - Next.js Framework ⚡
